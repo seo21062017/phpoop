@@ -4,8 +4,8 @@ namespace App;
 
 class TestSsh
 {
-   public function gitTests22222(): string
-   {
+   public function gitTests(): string
+    {
         return "";
     }
 }
